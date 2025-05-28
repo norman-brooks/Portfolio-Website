@@ -1,2 +1,2 @@
 # Portfolio-Website
-Created to show some of the skills/languages I've learned during my time at The Tech Academy
+This website showcases the skills I have picked up learning how to code such as HTML, JavaScript and CSS. 
